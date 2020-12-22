@@ -3,7 +3,7 @@
     "configMode": "AUTO",
     "configExternalURL": "",
     "projectToken": "",
-    "baseBranches": ["master", "develop"],
+    "baseBranches": ["master", "dependabot/*"],
     "enableLicenseViolations": "true"
   },
   "checkRunSettings": {
